@@ -1,0 +1,2 @@
+from shoppingutils import calculate_total_price
+calculate_total_price()
